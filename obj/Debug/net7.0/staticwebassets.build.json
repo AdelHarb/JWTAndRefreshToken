@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WNwO3+PMnj8NUd38C8hi7XXSfynKUd2MIF3dg795o0A=",
+  "Source": "TestApiJWT",
+  "BasePath": "_content/TestApiJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
